@@ -1,0 +1,9 @@
+.*
+!/.gitignore
+
+*.yml
+*.py[cod]
+__pycache__/
+
+dst/
+dev/
