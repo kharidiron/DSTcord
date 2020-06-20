@@ -1,0 +1,13 @@
+---
+ cluster_name: "NAME"
+ cluster_password: "SECRET"
+ prefix: "$"
+ token: "HASHED SECRET"
+ channel_id: 999999999999999999
+ dst_pipe: "/tmp/dst.pipe"
+ dst_chatlog: "/home/USER/.klei/DoNotStarveTogether/CLUSTERNAME/Master/server_chat_log.txt"
+ steamcmd_dir: "/home/USER/.steam/steamcmd"
+ install_dir: "/home/USER/dst"
+ game_dir: "/home/USER/.klei/DoNotStarveTogether"
+ check_update: 1
+ login: steam_login_name
